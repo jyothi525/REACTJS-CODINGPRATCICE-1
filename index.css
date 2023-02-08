@@ -1,0 +1,10 @@
+.heading {
+  color: white;
+  font-family: "Roboto";
+  font-size: 18px;
+}
+
+.image {
+  background-size: cover;
+  width: 40%;
+}
